@@ -1,0 +1,6 @@
+Dishes 2 days
+Garbage 4 days
+Sweep 5 days
+Vacuum 7 days
+Intense Clean 14 days
+Laundry 4 days
